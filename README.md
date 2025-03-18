@@ -1,5 +1,6 @@
 # Better-ChatGPT-indicator
 A zen mod that gives better ChatGPT indication when using it to search from the URL bar.
+![image 1(1)](https://github.com/user-attachments/assets/cc46d643-d297-493a-91f7-38ca1f0cf306)
 
 ## How to use
 * Go to `about:preferences#search` and click "Add" under the Search Prefrences section.
