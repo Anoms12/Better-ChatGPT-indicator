@@ -6,5 +6,5 @@ A zen mod that gives better ChatGPT indication when using it to search from the 
 * Go to `about:preferences#search` and click "Add" under the Search Prefrences section.
 * Set the "Search engine name" to ChatGPT
 * Set the Engine URL to: https://chat.openai.com/?q=%s
-* Choose your alias, somthing like ChatPGT:
+* Choose your alias, somthing like ChatGPT:
 * You can now use ChatGPT in your URL bar!
